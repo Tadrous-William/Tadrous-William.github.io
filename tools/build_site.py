@@ -219,7 +219,7 @@ def nav(depth, home=True):
     return f"""<a class="skip" href="#main">Skip to content</a>
 <header class="nav">
   <div class="wrap">
-    <a class="brand" href="{up}index.html" aria-label="Tadrous William, home"><span class="mono-mark">TW</span><span>Tadrous William</span></a>
+    <a class="brand" href="{up}index.html" aria-label="Tadrous William, home"><span class="brand-pic"><img src="{up}assets/img/avatar.webp" alt="" width="40" height="40"></span><span>Tadrous William</span></a>
     <nav class="nav-links" aria-label="Main">
       <a href="{base}#about">About</a>
       <a href="{base}#services">Services</a>
