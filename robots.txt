@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tadrous-william.github.io/sitemap.xml
